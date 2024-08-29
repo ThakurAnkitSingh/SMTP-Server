@@ -1,0 +1,15 @@
+{
+  "name": "smtp-server",
+  "version": "1.0.0",
+  "description": "We are creating a simple SMTP service where we can send and receive mails from different domains.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/smtp-server": "^3.5.10",
+    "smtp-server": "^3.13.4"
+  }
+}
